@@ -10,3 +10,15 @@
     border: 3px double brown;
     background-color:cadetblue;
 }
+.whatUp {
+    height: 100px;
+    width: 100px;
+    border: 3px double brown;
+    background-color:chocolate;
+}
+.shadow {
+    box-shadow: 5px 5px 5px gray;
+    position: relative;
+    bottom: 5px;
+    cursor: pointer;
+}
